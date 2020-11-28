@@ -1,0 +1,4 @@
+Requisito para serena iniciar no windows 10 64bits
+
+Microsoft server speech platform runtime (x86)
+microsoft server speech recognition language tele (pt-br)

@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_pt-BR_Heloisa_11.0]
+
+@="Microsoft Server Speech Text to Speech Voice (pt-BR, Heloisa)"
+
+"416"="Microsoft Server Speech Text to Speech Voice (pt-BR, Heloisa)"
+
+"CLSID"="{a12bdfa1-c3a1-48ea-8e3f-27945e16cf7e}"
+
+"LangDataPath"="C:\\Program Files\\Common Files\\Microsoft Shared\\Speech\\Tokens\\TTS_MS_pt-BR_Heloisa_11.0\\MSTTSLocptBR.dat"
+
+"VoicePath"="C:\\Program Files\\Common Files\\Microsoft Shared\\Speech\\Tokens\\TTS_MS_pt-BR_Heloisa_11.0\\HeloisaT"
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_pt-BR_Heloisa_11.0\Attributes]
+
+@=""
+
+"Age"="Adult"
+
+"Gender"="Female"
+
+"Language"="416"
+
+"Name"="Microsoft Server Speech Text to Speech Voice (pt-BR, Heloisa)"
+
+"Vendor"="Microsoft"
+
+"Version"="11.0"

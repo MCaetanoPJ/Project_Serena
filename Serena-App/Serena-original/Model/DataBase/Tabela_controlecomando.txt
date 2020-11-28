@@ -1,0 +1,10 @@
+CREATE TABLE [controlecomando] (
+[Id] INTEGER  PRIMARY KEY NOT NULL,
+[IsCommand] VARCHAR(20)  NULL,
+[Instrucao] VARCHAR(100)  NULL,
+[Pronuncia] VARCHAR(100)  NOT NULL,
+[TipoComando] VARCHAR(100)  NULL,
+[RespostaEsperada] VARCHAR(100)  NULL,
+[Executar1] VARCHAR(100)  NULL,
+[Executar2] VARCHAR(100)  NULL
+)

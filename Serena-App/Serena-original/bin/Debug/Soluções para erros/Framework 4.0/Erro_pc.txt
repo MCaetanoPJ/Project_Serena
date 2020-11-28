@@ -1,0 +1,2 @@
+Erro de .NET FRAMEWORK VERSION 4.0
+Windows 7 home basic 32 bits

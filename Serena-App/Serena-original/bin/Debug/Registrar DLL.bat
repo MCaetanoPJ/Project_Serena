@@ -1,0 +1,1 @@
+REGSVR32.EXE "C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.Speech.dll"

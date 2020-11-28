@@ -1,0 +1,441 @@
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.Speech.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\bin\Debug\System.Data.SQLite.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+F:\Serena 5.4(19-02-2020) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+D:\Serena 5.4(25-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+D:\Serena 5.4(26-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+C:\Users\Omnia\Desktop\Marcos\TCC\Prático\Desenvolvimento\Serena 5.4\Nova pasta\Serena 5.4(27-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+D:\Serena 5.4(28-02-2020)\Serena 5.4(28-02-2020)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+D:\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.Speech.dll
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+D:\TCC\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.Speech.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.Speech.dll
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+D:\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.Speech.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.Speech.dll
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojAssemblyReference.cache
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.cache
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.CopyComplete
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+F:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.Speech.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+D:\TCC\Serena Funcionando\Serena 5.4(12-03-2020)\Serena 5.4(03-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.Speech.dll
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+D:\TCC - Prático\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.Speech.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+C:\Users\Omnia\Desktop\Serena 5.4(03-03-2020) - Estavel (VS) - Copia\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.Speech.dll
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+C:\Users\Omnia\Desktop\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.Speech.dll
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.dll
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+C:\Users\Omnia\Desktop\Serena 5.4(10-09-2020) - Estavel (VS)\Serena 5.4(23-03-2020) - Estavel (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.Speech.dll
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+C:\Users\DeviLaborOnLine\Desktop\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.exe
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\Serena 5.4.pdb
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\Microsoft.Speech.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Drawing.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.exe
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.pdb
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\bin\Debug\Serena 5.4.exe.config
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\obj\Debug\Serena 5.4.exe
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\obj\Debug\Serena 5.4.pdb
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Parcial.gif
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\bin\Debug\Imagens\Cerebro_giro_Completo.gif
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\bin\Debug\Serena 5.4.exe
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\bin\Debug\Serena 5.4.pdb
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\bin\Debug\Microsoft.CSharp.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\bin\Debug\Microsoft.Speech.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\bin\Debug\System.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\bin\Debug\System.Drawing.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\bin\Debug\System.Windows.Forms.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\bin\Debug\System.Xml.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\bin\Debug\System.Xml.Linq.dll
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\obj\Debug\Serena 5.4.csprojResolveAssemblyReference.cache
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\obj\Debug\Serena_5._.View.Config_Voz.resources
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\obj\Debug\Serena_5._.View.Criador_Comandos.resources
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\obj\Debug\Serena_5._.View.Exibir_Comandos.resources
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\obj\Debug\Serena_5._.View.Importar_Comandos.resources
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\obj\Debug\Serena_5._.View.Tela_Inicio.resources
+C:\Serena 5.4(15-09-2020) - Versão Final (VS)\Serena 5.4\obj\Debug\Serena 5.4.csproj.GenerateResource.Cache
